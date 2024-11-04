@@ -9,7 +9,8 @@ public class Myclass {
     public String str4="str4 in techpro";
     //t2
     public String str5="str5";
-
+    //v4
+    public String str6="str6";
 
 
 }
