@@ -11,6 +11,7 @@ public class Myclass {
     public String str5="str5";
     //v4
     public String str6="str6";
-
+    //some changes
+    public String str7="str7";
 
 }
