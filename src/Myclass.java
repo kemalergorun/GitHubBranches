@@ -7,4 +7,7 @@ public class Myclass {
 
     //techpro branch t1
     public String str4="str4 in techpro";
+    //t2
+    public String str5="str5";
+
 }
