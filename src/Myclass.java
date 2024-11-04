@@ -13,5 +13,8 @@ public class Myclass {
     public String str6="str6";
     //some changes
     public String str7="str7";
+    //some changes stash
+    public String str8="str8";
+
 
 }
