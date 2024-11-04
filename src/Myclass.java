@@ -17,7 +17,8 @@ public class Myclass {
     public String str8="str8";
     //gitignore
     public String str9="str9";
-
+    //more
+    public String str10="str10";
 
 
 
