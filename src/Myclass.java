@@ -5,4 +5,6 @@ public class Myclass {
     //v3
     public String str3="str3";
 
+    //techpro branch t1
+    public String str4="str4 in techpro";
 }
