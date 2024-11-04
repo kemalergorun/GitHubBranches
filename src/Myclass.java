@@ -19,7 +19,8 @@ public class Myclass {
     public String str9="str9";
     //more
     public String str10="str10";
-
+    //insert resolved esc :wq to solve conflict
+    public String str11="str11";
 
 
 }
