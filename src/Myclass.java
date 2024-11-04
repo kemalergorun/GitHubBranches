@@ -15,6 +15,8 @@ public class Myclass {
     public String str7="str7";
     //some changes stash
     public String str8="str8";
+    //gitignore
+    public String str9="str9";
 
 
 }
