@@ -4,8 +4,8 @@ public class Myclass2 {
 //resolved
 
   //remote version1
-  public String str="kem"
+  public String str="kem";
     //remote version1
-  public String str1="kem"
+  public String str1="kem";
 
 }
