@@ -21,6 +21,8 @@ public class Myclass {
     public String str10="str10";
     //insert resolved esc :wq to solve conflict
     public String str11="str11";
+//changes
+public String tsr="some";
 
 
 }
