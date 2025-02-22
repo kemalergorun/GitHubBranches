@@ -4,6 +4,8 @@ public class Myclass2 {
 //resolved
 
   //remote version1
-  public String str="kem"
+  public String str="kem";
+  public Integer int2=78;
+
 
 }
