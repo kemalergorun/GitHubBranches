@@ -8,6 +8,7 @@ public class Myclass2 {
   public Integer int2=78;
     //remote version1
   public String str1="kem";
+  public String str3="kemal";
 
 
 }
